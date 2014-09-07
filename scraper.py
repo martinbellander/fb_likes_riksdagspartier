@@ -3,7 +3,7 @@ import datetime
 
 now = datetime.datetime.now()
 
-partier = (["moderaterna", "folkpartiet", "Kristdemokraterna", "centerpartiet", "SDjatack", "miljopartiet", "socialdemokraterna", "vansterpartiet"]);
+partier = (["moderaterna", "folkpartiet", "Kristdemokraterna", "centerpartiet", "SDjatack", "miljopartiet", "socialdemokraterna", "vansterpartiet", "feministisktinitiativ"]);
 
 count = 1
 
